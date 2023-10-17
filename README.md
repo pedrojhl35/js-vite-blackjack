@@ -1,6 +1,6 @@
 # BlackJack Vite
 
-Pasos para ejecutar proyecto:
+Pasos para ejecutar proyecto://////
 
 Nueva info para actualizar github
 
