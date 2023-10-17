@@ -1,4 +1,5 @@
 # BlackJack Vite
+///Subir produccion
 
 Pasos para ejecutar proyecto:
 
